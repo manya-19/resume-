@@ -1,0 +1,37 @@
+div
+{
+    border-radius:6px;
+    height:40px;
+    width:40px;
+    background-color:#62ea44;
+    
+}
+#header
+{
+    
+    
+    width:160px;
+}
+.left
+{
+    float:left;
+margin-top:40px;
+margin-left:20px;
+    height:180px;
+    width:189px;
+    background-color:yellow;
+}
+.right
+{
+    clear:left;
+    
+    width:400px;
+    height:200px;
+    background-color:pink;
+    
+}
+#footer
+{
+    clear:both;
+    width:300px
+}
